@@ -1,1 +1,1 @@
-cat > command line 
+git pull origin master
